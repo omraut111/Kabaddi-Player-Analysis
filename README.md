@@ -68,9 +68,3 @@ This project uses the pytest framework. To run tests:
 
         conda activate venv
         pytest
-Example Output
-Here’s a sample residual plot from the model evaluation (actual output from your testing):
-
-![Residual Plot] (Screenshot 2025-11-18 152640.png)
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add.
